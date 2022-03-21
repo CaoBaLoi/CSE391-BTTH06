@@ -1,0 +1,88 @@
+.container{
+    height: 300px;
+    width: 100%;
+}
+.container .form{
+    height: 100%;
+    width: 40%;
+    border: 2px inset gray;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.container .form .form-inner{
+    height: 60%;
+    width: 90%;
+    border: 1.5px groove violet;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.form-inner-1{
+    display: flex;
+    height: 25%;
+    width: 100%;
+}
+.form-inner-1 .form-inner-1-left{
+    height: 100%;
+    width: 25%;
+    border-bottom: 1.5px groove violet;
+    border-right: 1.5px groove violet;
+}
+.form-inner-1-left .button-1{
+    height: 70%;
+    width: 85%;
+    margin-top: 7px;
+    margin-bottom: auto;
+    margin-right: 8px;
+}
+.form-inner-1 .form-inner-1-right{
+    height: 100%;
+    width: 75%;
+    border-bottom: 1.5px groove violet;
+}
+.form-inner-2{
+    height: 25%;
+    width: 100%;
+    border-bottom: 1.5px groove violet;
+}
+.form-inner-3{
+    height: 25%;
+    width: 100%;
+    display: flex;
+    border-bottom: 1.5px groove violet;
+
+}
+.form-inner-3 .form-inner-3-left{
+    margin: auto;
+    margin-right: 10px;
+}
+.form-inner-3 .form-inner-3-right{
+    margin: auto;
+    margin-left: 0px;
+}
+.form-inner-4{
+    height: 25%;
+    width: 100%;
+}
+.form-inner-4-1{
+    height: 100%;
+    width: 80%;
+    display: flex;
+    margin: auto;
+}
+.input-1{
+    width: 50px;
+    height: 55%;
+}
+.input-2{
+    width: 80px;
+    height: 55%;
+}
+.in-form-inner-4-1{
+    height: 90%;
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 15%;
+    text-align: left;
+}
